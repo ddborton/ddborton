@@ -4,4 +4,4 @@
 </br>
 Languages:
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddborton&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddborton&theme=tokyonight&layout=compact)
