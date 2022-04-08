@@ -3,9 +3,9 @@
 
 <div align="center">
  
-![](https://badge42.herokuapp.com/api/stats/dborton)
  
- </div>
+ [![dborton's 42 stats](https://badge42.vercel.app/api/v2/cl1q2sn67003509l8gwzl18ug/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
+</div>
 
 ## Languages:
 
